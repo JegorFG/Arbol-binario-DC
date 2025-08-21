@@ -35,7 +35,7 @@ Lenguaje: Java 8+
 
 IDE: NetBeans
 
-GUI: Swing / AWT
+GUI: Swing / AWT / Graphics
 
 Paradigma: Programación Orientada a Objetos
 
