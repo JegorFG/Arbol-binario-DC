@@ -60,6 +60,7 @@ VentanaPrincipal.java → Interfaz gráfica con todas las opciones.
 📌 Funcionalidades Implementadas
 
 ✅ Inserción de tarjetas con validación de IDs únicos.
+
 ✅ Eliminación de nodos según condiciones específicas:
 
 No se pueden eliminar tarjetas de categoría Civiles.
