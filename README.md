@@ -68,10 +68,15 @@ Restricciones especiales si el nodo tiene uno o dos hijos.
 
 
 ✅ Búsqueda de tarjetas por ID, mostrando sus datos completos.
+
 ✅ Recorridos clásicos: Preorden, Inorden y Postorden.
+
 ✅ Cantidad de nodos filtrados por categorías (“Súper héroes” y “Súper villanos”).
+
 ✅ Listado de nodos hoja de categoría “Frases icónicas”.
+
 ✅ Identificación del mayor y menor ID en el árbol.
+
 ✅ Visualización gráfica del árbol, mostrando los nodos en pantalla.
 
 
